@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Our Saviours passion delivered in a sermon, preach'd in the cathedral church of Saint Peter in Exon. On Good Friday, the first of April, 1670. By Matthew Hole, Master of Arts, and Fellow of Exeter Colledge, Oxon.</title>
+            <author>Hole, Matthew, 1639 or 40-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44146</idno>
+            <idno type="STC">Wing H2411</idno>
+            <idno type="STC">ESTC R215768</idno>
+            <idno type="EEBO-CITATION">99827541</idno>
+            <idno type="PROQUEST">99827541</idno>
+            <idno type="VID">31962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1910:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Our Saviours passion delivered in a sermon, preach'd in the cathedral church of Saint Peter in Exon. On Good Friday, the first of April, 1670. By Matthew Hole, Master of Arts, and Fellow of Exeter Colledge, Oxon.</title>
+                  <author>Hole, Matthew, 1639 or 40-1730.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Royston, and are to be sold by Abisha Brocas bookseller in Exon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Passion --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31962:1" rendition="simple:additions"/>
+            <p>OUR Saviours Paſsion: Delivered in a SERMON, Preach'd in the Cathedral Church of Saint PETER in EXON.</p>
+            <p>On Good Friday, the Firſt of <hi>April,</hi> 1670.</p>
+            <p>BY <hi>Matthew Hole,</hi> Maſter of Arts, and Fellow of <hi>Exeter</hi> Colledge, <hi>OXON.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Richard Royston,</hi> and are to be ſold by <hi>Abiſha Brocas</hi> Bookſeller in <hi>Exon.</hi> 1670.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:31962:2"/>
+            <pb n="3" facs="tcp:31962:2"/>
+            <head>To the Right Worſhipful <hi>William Morton</hi> Knight, one of the Honourable Juſtices of the Kings Bench.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE ſatisfaction that was expreſt at the hearing of this Sermon, and the Candid entertainment it hath found ſince, have induc'd me to gratifie the requeſts of ſome, in making it more pub<g ref="char:EOLhyphen"/>lick; which I the rather comply'd with, becauſe it gave me an opportunity to publiſh to your Honour, and the World, my grateful reſentment of your great and unmerited favours. I am not ſo vain as to imagine that any thing therein deliver'd ſhould be thought able to preſent your Honour with any in<g ref="char:EOLhyphen"/>ſtruction, or make the leaſt addition to the ample ſtock of your preſent knowledge; if it may prove only a remem<g ref="char:EOLhyphen"/>brancer, or upon any other account may be eſteem'd worthy your Honours peruſal or acceptance, the Author hath attain'd his end, and will reſt ſatisfied in the ſuc<g ref="char:EOLhyphen"/>ceſs</hi>
+            </p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:31962:3"/>
+            <p>daea, <hi>and all ye that dwell at</hi> Jeruſalem, <hi>be this known unto you, and hearken unto my words, for theſe men (whom you thus wickedly traduce) are not drunk with Wine, ſeeing it is but the third hour of the Day;</hi> and thoſe ſudden inſpirations which you have heard and ſeen, are not, as you prophanely imagine, the ef<g ref="char:EOLhyphen"/>fects of <hi>Enthuſiaſm</hi> or intemperance, but the gifts of the Holy Ghoſt, and in them is accompliſh'd that gracious promiſe of the plentiful effuſion of knowledge that ſhould come to paſs in the laſt days; but we need not wonder (as he goes on) at this your carriage towards them, (v. 22.) ſince Jeſus Chriſt himſelf, who was a man approved of God among you by miracles, ſignes and wonders, which God did by him in the midſt of you, as ye your ſelves alſo know, yet even him, not without the determi<g ref="char:EOLhyphen"/>nate counſell and fore-knowledge of God, ye have taken, and by wicked hands have crucified and ſlain.</p>
+            <p>So that the words are part of that excellent and ſucceſsful Sermon of St. <hi>Peter</hi> preached unto the Jews, wherein he ſharp<g ref="char:EOLhyphen"/>ly rebuked them for their barbarous and inhumane carriage to<g ref="char:EOLhyphen"/>wards him who abundantly prov'd himſelf to be the true Meſſias; and from them I ſhall treat,</p>
+            <p n="1">1. Firſt of all, concerning our Saviours Paſſion, in the three ſtpes or degrees of it, mentioned here in the Text, viz. <hi>That he was taken, and by wicked hands crucified, and ſlain;</hi> to which I ſhall add a word or two touching the cauſe and the deſign of his undergoing all this.</p>
+            <p n="2">2. Secondly, I ſhall ſhew, that this his Paſſion was not without the determinate counſell and fore-knowledge of God.</p>
+            <p n="3">3. And, laſtly, conclude with ſome practical inferences from the whole.</p>
+            <p>I begin with the Hiſtory of our Saviours Paſſion, and there with the firſt ſtep of it, which is his apprehenſion or being taken, <hi>him ye have taken;</hi> this we know is the firſt degree of pu<g ref="char:EOLhyphen"/>niſhment that is wont to be exercis'd towards Malefactors, who are firſt apprehended &amp; arraign'd, before they are condemn'd or executed<g ref="char:punc">▪</g> Suitable hereunto, the Sons of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iolence laid hands on
+<pb n="7" facs="tcp:31962:3"/>our Saviour to take him; which act of pretended juſtice was not done by any private or ſingle perſon, but by the counſell, or rather the conſpiracy of the chief Prieſts and Elders; for we read, in <hi>Mat.</hi> 26. <hi>v.</hi> 4. <hi>That they held a conſultation, how they might take Jeſus by ſubtilty, and carry him away;</hi> though his daily preſence at <hi>Jeruſalem</hi> ſeem'd to give them fair opportunities of effecting their deſign, yet the reputation he had with the peo<g ref="char:EOLhyphen"/>ple made them not ſo forward to embrace them, and therefore they dealt underhand with one of his own Diſciples, corrupting him with the promiſe of a reward, to betray him with the great<g ref="char:EOLhyphen"/>er ſecrecy into their hands. The <hi>Scribes</hi> and <hi>Phariſees, He<g ref="char:EOLhyphen"/>rod</hi> and <hi>Pilate,</hi> though bitter enemies to each other, and ſcarce agreeing in any thing elſe, yet did conſpire together in the ap<g ref="char:EOLhyphen"/>prehending and taking our Saviour; ſo true was that prediction of the <hi>Pſalmiſt,</hi> in the ſecond <hi>Pſalm, v.</hi> 2. <hi>The Kings of the Earth ſet themſelves, and the rulers take counſel together againſt the Lord, and againſt his anointed.</hi> The place where they apprehen<g ref="char:EOLhyphen"/>ded him was in the Garden, where, after the treachery of <hi>Judas</hi> in betraying him, a band of Souldiers ſeiz'd on his Perſon, hall'd him away before <hi>Pilate,</hi> and from thence into priſon, where he met with no better company then an infamous Robber nam'd <hi>Barrabbas,</hi> who yet, by a cuſtom of releaſing one at the Feaſt, was diſmiſt at the requeſt of the people, whilſt our Saviour was ſa<g ref="char:EOLhyphen"/>crificed to the clamors and crucifige's of the multitude. The manner of his apprehenſion St. <hi>Luke</hi> informs, in the 22. Chap. v. 52. <hi>They came out against him, as againſt a thief, with Swords and Staves.</hi> He who was the very pattern, and great exemplar, of low<g ref="char:EOLhyphen"/>lineſs, of meekneſs, was yet thus roughly handled by the merci<g ref="char:EOLhyphen"/>leſs Souldiers; and though <hi>Peter,</hi> out of a high reſentment here<g ref="char:EOLhyphen"/>of, offered to make reſiſtance by drawing his ſword, and cut<g ref="char:EOLhyphen"/>ting off the ear of one of the High Prieſt's ſervants, yet our Saviour ſharply check't his inconſiderate zeal and raſhneſs; partly, becauſe they did all by the authority and command of the Magiſtrate, againſt whom he would by no means ſuffer or en<g ref="char:EOLhyphen"/>courage the leaſt reſiſtance; &amp; partly becauſe it behov'd him to ſuffer, and to be thus handled, for the compleating the work of our redemption.</p>
+            <pb n="8" facs="tcp:31962:4"/>
+            <p>But the jealous malice and violence of the Souldiers thought him not yet ſufficiently ſecur'd before they had caſt their cords on him, and carried him away bound unto <hi>Pilate,</hi> as we read, <hi>Mat.</hi> 27.2 Having ſeiz'd on his Perſon, they ſecure him in Bonds, and make all haſte to diſpatch him away, to prevent his eſcape, or reſcue; which circumſtance of their malice was prefigur'd in the Old Teſtament, by tying the Sacrifices with Cords, and drag<g ref="char:EOLhyphen"/>ging them bound to the Altar, as alſo his being apprehended and taken was not obſcurely preſignified in <hi>Joſeph</hi>'s being taken and carried priſoner into <hi>Egypt,</hi> of which we read in <hi>Gen.</hi> 39. And ſo much, briefly, for the firſt ſtep or degree of our Saviours Paſ<g ref="char:EOLhyphen"/>ſion, namely his being taken.</p>
+            <p n="2">2. The ſecond degree of it mention'd here in the Text, is his being crucified; we know a man may be apprehended, and yet afterward diſmiſt without any farther cenſure or infliction; but the malice of the Jews towards our Saviour reſted not ſo, but proceeded further, to his crucifixion. <hi>Him ye have taken, and by wicked hands crucified.</hi> This aſſixing of Criminals unto a Croſs was a Romane puniſhment, inflicted only on thieves and robbers, or other very notorious offenders; till <hi>Constantine</hi> the firſt Chriſtian Emperour, out of a Pious honour and reſpect to Chriſt's death, forbade any farther uſe of it; but for the better underſtanding hereof, we muſt know that the Romans, to encreaſe the ſhame and ſting of this puniſhment, made uſe of theſe four circumſtances toward thoſe on whom it was inflicted; all which were improv'd to the very higheſt degree of cruelty in our Sa<g ref="char:EOLhyphen"/>viour's Crucifixion.</p>
+            <p>Firſt, thoſe that were condemn'd to this puniſhment were made to bear their Croſs upon their ſhoulders to the place of execution, which was ever without the City. So <hi>Plutarch</hi> tells us expreſly, <hi>[Plutar. de his qui ſero puniuatu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. malefactors when they are led forth to execution, each one bears his own croſs: and <hi>Artemidorus</hi> [Artem. <hi>lib.</hi> 2. <hi>cap.</hi> 42.] is as plain, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="9" facs="tcp:31962:4"/>i.e. the Croſs reſembles death, and he that was to be crucified did firſt bear it; in complyance with which cuſtom, the barbarous Jews leading forth our Saviour, forc't him to bear his own Croſs, as we read, <hi>John</hi> 19.17. as if it were not enough to be thus ſhamefully executed, unleſs he bare the unhappy inſtrument of his ſhame; or becauſe the Croſs was ſhortly to bear him, therefore he ſhould be conſtrain'd to bear it. It is indeed ſaid, that <hi>Simon</hi> the <hi>Cyrenian</hi> was compel<g ref="char:EOLhyphen"/>led to bear his Croſs, <hi>Mat.</hi> 27.32. but that was onely when our Saviour through wearineſs had almoſt fainted under the burden; elſe, had his ſtrength held out, he had found none to have eas'd him of that reproachful weight. Now this act of bea<g ref="char:EOLhyphen"/>ring his Croſs was repreſented to us in the Old Teſtament, by <hi>Iſaack</hi>'s bearing the wood for Sacrifice, of which we read, <hi>Gen.</hi> 22. in alluſion and imitation hereof it was, that our Saviour told his followers, that if they would be his Diſciples, they muſt take up their Croſs and follow him, in the patient bearing of di<g ref="char:EOLhyphen"/>ſtreſs and infamy.</p>
+            <p>Secondly, Thoſe who were to undergoe this puniſhment were commanded to be ſtript of their clothes and to ſuffer naked, for ſo <hi>Artemidorus</hi> aſſures us, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they that were to be crucified were ſtript naked. Sutable whereunto we read, concerning our Saviour, <hi>Mat.</hi> 27.28. that they ſtript him of his clothes; he who was cloth'd with Light, as with a garment, and inveſted with the glorious robes of immor<g ref="char:EOLhyphen"/>tality, was pleas'd for a while to lay theſe aſide, and put on the rags of humane fleſh, together with thoſe outward coverings that were ordain'd to conceal our ſhame; but of theſe too did un<g ref="char:EOLhyphen"/>thankful mortalls unworthily ſtrip him; and, as if he had aſpir'd too high, when he parted with his glory for theſe inconſidera<g ref="char:EOLhyphen"/>ble ornaments, he was wholly depriv'd of them, and expos'd naked to all their ſcoffs and revilings; and having thus ſtript him, <hi>They parted his Garments among them, and upon his Veſture did they caſt lots, Mat.</hi> 27.35.</p>
+            <p>Thirdly, Thoſe who, among the <hi>Romans,</hi> were condemn'd to
+<pb n="10" facs="tcp:31962:5"/>this puniſhment were firſt of all to be whipt and ſcourged. So St. <hi>Jerome</hi> informs us; <hi>Sciendum eſt, legibus Romanis ſancitum eſſe, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t qui crucifigitur prius flagellis verberetur,</hi> i. e. It was decreed by the Laws of the <hi>Romans,</hi> that they who were to be crucified ſhould be firſt ſcourg'd; accordingly <hi>Valerius</hi> tells us of one, <hi>qui ſervam ſuum verberibus multatum ad ſupplicium egiſſet;</hi> and <hi>Artemidorus</hi> of another, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. who being ty'd to a Pillar receiv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d many ſtripes; this circumſtance of Barbarity too was exerciſed towards our Saviour, <hi>Mat.</hi> 27.26. <hi>When they had ſcourged Jeſus they delivered him up to be crucified.</hi> Having ſtript him naked they laſh and ſcourge him on every ſide; the bitterneſs whereof was encreas'd by that reproachful taunt us'd at every blow, now propheſy who it is that ſtrikes thee; of this did the Evangelical Prophet <hi>Iſaias</hi> plainly foretell, in <hi>Iſai.</hi> 53.5. <hi>The Chaſtiſement of our peace was upon him, and by his stripes we are healed.</hi>
+            </p>
+            <p>Fourthly, Thoſe who were wont to be faſten'd to the Croſs had the cauſe of their puniſhment writen over them in Capital Letters, that ſo the equity of it might the better appear to the World. Hence <hi>Di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> tells us of a ſervant hanging on the Croſs <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with letters declaring the cauſe of his death; this piece of pretended juſtice too was not omitted towards our Saviour; for having hail'd his body to the Croſs all beſmear'd in blood and gore, which the nails and ſcourges drew from him, they ſet over his head this accuſation written, THIS IS JESUS THE KING OF THE JEWS, <hi>Mat.</hi> 27.37. Which that it might be the more generally known and underſtood by all, St. <hi>Luke</hi> tells us it was written in three Languages, viz. in <hi>Latine, Greek,</hi> and <hi>He<g ref="char:EOLhyphen"/>brew, Luke</hi> 23.38. Thus did the malicious Jews improve this <hi>Romane</hi> puniſhment to the height of cruelty upon our Saviour; crucifying him between two thieves, as if he had been the Arch<g ref="char:EOLhyphen"/>malefactor; where after he had hung on the Croſs from the ſixth to the ninth hour, upon the tenderwounds of his hands and feet, he gave up the Ghoſt, which was the laſt act of this dole<g ref="char:EOLhyphen"/>full
+<pb n="11" facs="tcp:31962:5"/>Tragedy, and leads us to the third ſtep or degree of his Paſſion, mention'd in the Text; to wit, his death, or being ſlain, <hi>Him ye have taken, and with wicked hands have crucified and ſlain.</hi> As we ſhewed before, that the taking of any priſoner doth not neceſſarily ſuppoſe any farther cenſure, much leſs crucifixion; ſo neither doth crucifixion neceſſarily import death; for they on whom it is inflicted, being faſten'd to the Croſs not by any vital part, die ſo leaſurely, that being taken from thence, may eaſily be ſuppos'd to live: but neither did the malice of the Jews nor our Saviours ſufferings end here, but proceeded to the very extremity of this puniſhment, and fulfill'd the utmoſt in<g ref="char:EOLhyphen"/>tention of Crucifixion; hence St. <hi>Paul</hi> tells us, <hi>Philip.</hi> 2.3. <hi>That he became obedient unto death, even the death of the Croſs,</hi> which of all the Romane ways of excution was the moſt painful, and the moſt ignominious.</p>
+            <p>Firſt of all, I ſay, his death was exceeding painful and dolo<g ref="char:EOLhyphen"/>rous; for he was nail'd to the Croſs, not by thoſe parts that might have inferr'd ſudden death, and ſo quickly have diſpatch't his pain, but by his hands and feet, which are of all other the moſt nervous, and conſequently the moſt ſenſible parts; by which means they made him (as <hi>Nero</hi> afterward did the Chriſtians) <hi>ſentire ſe mori,</hi> feel himſelf dying, and endur'd the racking tor<g ref="char:EOLhyphen"/>ments of a lingring death; their cruel ſcourges in the mean while fetching blood, and making long furrows upon his back; the Souldiers pierc't his ſide with ſpears, and his Soul with ſcoffs and mockings more ſharp then they; the multitude came about him hanging on the Croſs, not to pity but deride him; and as if he had been the vileſt miſcreant upon earth, they ſpit in his face, and in the midſt of all his pain and anguiſh pour'd on him, not tears, but ſcorn and contempt. In his bitter Agonies they de<g ref="char:EOLhyphen"/>ny'd him a drop of water, a courteſie never denied any but the damned in hell, and inſtead thereof filled him a ſpunge of Vinegar and Gall, on purpoſe to encreaſe the bitterneſs of his Paſſion. In the Garden of <hi>Gethſemane</hi> his Soul felt greater tortures, than his body on the Croſs; there it was, that he drunk that bitter
+<pb n="12" facs="tcp:31962:6"/>Cup, which ſet him in an Agony, and caus'd him to ſweat great drops of blood, which made him pray three times moſt eatheſt<g ref="char:EOLhyphen"/>ly, <hi>Father, if it be poſsible, let this Cup paſs from me;</hi> then did he appear forſaken of his friends, and in his apprehenſion deſerted of God too; which made him in the anguiſh of his Soul to cry out, <hi>My God, My God, why haſt thou forſaken me?</hi> and ſure, if we conſider theſe things, we muſt needs ſay, that there was no death like unto his, nor any ſorrow like unto his ſorrow. But,</p>
+            <p>Secondly, as his death was thus painful, ſo was it no leſs ſhameful and ignominious too; Our Saviour having humbled himſelf to the form of a ſervant was condemn'd to be crucified, which <hi>Tacitus</hi> calls <hi>Servile ſupplicium,</hi> a puniſhment inflicted onely on ſervants or ſlaves, never on any freeman or cirizen; but before he underwent this infamous and ſlaviſh death, they kept him a while to ſport themſelves in his miſery; to that end they ſtript him of his clothes; and in deriſion put on him a ſcar<g ref="char:EOLhyphen"/>let robe, the true emblem of their crimſon ſins; and having accus'd him as one aſpiring to be King of the Jews, they platted for him a Crown of Thorns, ſetting it on his head; &amp; becauſe he ſhould not want a Scepter, they put a reed into his right hand, after which they in mockery bow their head to him, ſaying, <hi>Hail King of the Jews;</hi> and when they had ſpotted their fill with him, they carried him away to be crucified; where, as he hung on the Croſs, they re<g ref="char:EOLhyphen"/>proached him with all his former Miracles and Propheſies, ſaying <hi>he ſaved others, himſelf he cannot ſave; if he be the Son of God let him now come down from the Croſs;</hi> and wagging their heads at him, they ſaid, <hi>thou that deſtroyeſt the Temple, and buildeſt it in three dayes, ſave thy ſelf, Mat.</hi> 27. After all which, he laid down his life, and drank up this bitter Cup,, even to the very dregs.</p>
+            <p>And now, one would think that theſe bloody inſtruments of his death ſhould feel within them ſome ſting of Conſcience, and con<g ref="char:EOLhyphen"/>ceive ſome remorſe after ſo black and tragical an enterprize; but theſe, alas, as if they were (what was ſaid of <hi>Tiberius,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. but ſo many clods of earth kneaded and ce<g ref="char:EOLhyphen"/>mented
+<pb n="13" facs="tcp:31962:6"/>with blood, remain as ſenceleſs &amp; unrelenting after all this, as the Tree on which he hung, or the Grave-ſtone that co<g ref="char:EOLhyphen"/>vered him; they think of nothing but caſting him into the earth, and ſecuring his Grave with a Band of Souldiers; however, ſince theſe remorſleſs Jews could conceive neither ſorrow, nor repen<g ref="char:EOLhyphen"/>tance, the whole Creation ſeem'd concern'd to lament the fall of ſo great a Perſon; the Sun drew in its Light, as unwilling to behold ſo ſad a ſpectacle; the earth trembled and quak'd, as im<g ref="char:EOLhyphen"/>patient of bearing up thoſe perſons that occaſion'd it; the hea<g ref="char:EOLhyphen"/>vens were all overcaſt and cloath'd in black, as the chief mour<g ref="char:EOLhyphen"/>ners at his Funeral; the Vail of the Temple was rent in twain from the top to the bottom; the hard Rocks clave; the Graves opened, and all things but theſe unrelenting Jews were appall'd and confounded at the Paſsion of our Lord. And thus have we gone through the ſeveral acts or ſcenes of this direful Tragedy; having ſeen him taken, and by wicked hands crucified and ſlain; which every one that hath heard will be ready to inquire into the cauſe for which he ſuffer'd all this.</p>
+            <p>For anſwer whereunto, we muſt know,</p>
+            <p>Firſt of all, that ſin is the ſole meritorious cauſe of all ſor<g ref="char:EOLhyphen"/>rows and ſufferings; which appears, not only, becauſe before ſin entred into the world, theſe things were altogether unknown, and ſtrangers to humane Nature; but likewiſe, becauſe ever ſince its entrance, they have ever gone hand in hand together; to this purpoſe is that of St. <hi>Paul, Rom.</hi> 5.12. <hi>As by one man ſin en<g ref="char:EOLhyphen"/>tered into the World, and death by ſin, even ſo death paſſed upon all men, for that all have ſinned.</hi> But</p>
+            <p>Secondly, to prevent an Objection, (<hi>Heb.</hi> 7.26.) that may be taken from the High, Holy, and harmleſs Nature of Chriſt, ſeparated from ſinners, and made higher than the Heavens, who though he aſſum'd our Nature, <hi>Heb.</hi> 4.15. Yet was ſin and all kind of irregularities excepted; I ſay, to prevent this, we muſt know, that though the immaculate Son of God had no ſins of his own to be laid to his charge, and conſequently was not liable to puniſh<g ref="char:EOLhyphen"/>ment, or the diſpleaſure of Heaven, upon his own ſcore, yet when
+<pb n="14" facs="tcp:31962:7"/>he graciouſly undertook to be our ſurety or Saviour, the whole burden of our ſins lay upon his ſhoulders, and he became anſwe<g ref="char:EOLhyphen"/>rable to the juſtice of God for the tranſgreſſions of mankind; and hence was that harſh ſaying of <hi>Luther,</hi> who ſtyl'd our Saviour <hi>pec<g ref="char:EOLhyphen"/>catorum maximus,</hi> the greateſt of ſinners; viz. not by any actual guilt of his own, but only by imputation: Now, ſince <hi>the wages of ſin is death, Rom.</hi> 6.23. <hi>And without ſhedding of blood there is no remiſsion, Heb.</hi> 9.22. Therefore our Saviour muſt, and accordingly was content to die, that he might become our ſuffici<g ref="char:EOLhyphen"/>ent ranſom and atonement. And if one ſin were enough to turn <hi>Adam</hi> out of Paradiſe, and to ſet up a flaming ſword to prevent his return; if one ſin (whatever it were) were ſufficient to throw the laps'd Angels out of Heaven, and to reſerve them in <hi>Chains</hi> of darkneſs to the judgment of the great day, as we read in the E<g ref="char:EOLhyphen"/>piſtle of St. <hi>Jude;</hi> what an unſupportable weight (think we) muſt be the concurrent guilt of all mankind's tranſgreſſions; a preſ<g ref="char:EOLhyphen"/>ſure ſure that muſt ſink the ſtouteſt <hi>Atlas,</hi> and diſorder the whole frame of Nature: So that we may ceaſe our wonder at the ſeve<g ref="char:EOLhyphen"/>rity of Chriſt's ſufferings, when we reflect on that complicated guilt which was the cauſe of them. 'Twere our debts for which Jeſus Chriſt was arreſted and impriſoned by the Souldiers, and which by his conſequent ſufferings he paid to the utmoſt farth<g ref="char:EOLhyphen"/>ing; our ſin was the Spear that pierc't his ſide, and the nails that faſten'd him to the Croſs: which leads us to the</p>
+            <p>Laſt thing to be ſpoken to concerning our Saviours Paſſion; namely, the end or deſign of his undergoing all this, which was the expiation of ſin, and the reſtoring us again to the loſt love and favour of God: he wore a Crown of Thorns, only that we might wear a Crown of Gold; and thoſe drops of blood which his enemies drew from him, are turn'd into ſo many pearls to beſtud and adorn ours; that ſcarlet Robe which the Jews put on him, dy'd as it were in his own blood, ſerves to hide our ſhame, and to cover for us a multitude of ſins; that bitter Cup, which he drunk off to the very dregs, is our <hi>Nectar,</hi> and a glorious Potion of immortality; the Vinegar and Gall, which made
+<pb n="15" facs="tcp:31962:7"/>him to faint, is become our moſt reviving Cordial; his Croſs, the curſed inſtrument of his death, is to us a Tree of life, which bears no other fruit than that of knowledge and eternal happi<g ref="char:EOLhyphen"/>neſs; his agonies are our triumphs, and his bloody ſweat the moſt Soveraign Balſam to cure our wounds; the Spear that pierc't our Saviours ſide open'd there a Fountain for ſin and for uncleanneſs; he liv'd and died with thieves and robbers, and was numbred among tranſgreſſors, only that we might live with Saints, and ſing forth his praiſes with Myriads of Angels; thus did every part of this Tragedy relate wholly to our benefit and advancement; and ſo much may ſuffice for the firſt thing propoun<g ref="char:EOLhyphen"/>ded to be ſpoken to; the</p>
+            <p>Second, is to ſhew that all this was done by the determinate counſel and fore-knowledge of God: which truth, beſide the ex<g ref="char:EOLhyphen"/>preſs words of the Text, is as fully ſet forth, <hi>Acts</hi> 4.27, 28. <hi>Of a truth againſt the Holy Child Jeſus, whom thou haſt anointed, both He<g ref="char:EOLhyphen"/>rod and Pontius Pilate, with the Gentiles and people of</hi> Iſrael, <hi>were gathered together, to do whatſoever thy hand and thy Counſel deter<g ref="char:EOLhyphen"/>min'd before to be done:</hi> for the clearing and evincing whereof, we muſt know,</p>
+            <p>Firſt, that there was from all eternity a certain covenant and agreement between the Father and the Son, concerning what and how he ſhould ſuffer; for Almighty God foreſeeing the Apo<g ref="char:EOLhyphen"/>ſtacy and fall of mankind, did from eternity, at leaſt for ſome of them, decree a ranſom and redemption; to effect which, becauſe juſtice demanded ſatisfaction for the violation of that poſitive Law that was to be given to them; the Son, as a ſurety, interpos'd and promis'd ſatisfaction; whereupon it was determin'd and a<g ref="char:EOLhyphen"/>greed between them, what ſhould be the manner and meaſure of his ſufferings, in order to the procuring pardon and redemp<g ref="char:EOLhyphen"/>tion for them: of this Covenant, on God the Fathers part, we read, <hi>Iſai.</hi> 53.10. <hi>If he ſhall make his ſoul an Offering for ſin he ſhall ſee his ſeed, and prolong his dayes:</hi> Of the Sons acceptation and undertaking hereof we read, <hi>Pſal.</hi> 40.7, 8. <hi>Then ſaid I, loe, I come, in the volume of thy Book it is written of me, to do thy will, O God;</hi> and hence is our Saviour ſaid to be the Lamb ſlain before
+<pb n="16" facs="tcp:31962:8"/>the Foundations of the World, <hi>Revel.</hi> 13.8. <hi>viz.</hi> in Gods eter<g ref="char:EOLhyphen"/>nal decree and determination, which makes it evident, that every circumſtance of Chriſts Paſſion was done by the counſel and fore-knowledge of God; which will yet further appear, if we conſider,</p>
+            <p>Secondly, That as theſe things were from eternity tranſacted and reſolved upon, between the Father and the Son, ſo likewiſe were they by the Spirit of God reveal'd unto the Prophets, and by them delivered unto the World, long before the incarnation of Jeſus Chriſt. Hence St. <hi>Paul,</hi> in the defence of this doct<g ref="char:EOLhyphen"/>rine, told <hi>Agrippa,</hi> that he ſaid none other things <hi>then thoſe which</hi> Moſes <hi>and the Prophets did ſay ſhould come, that Chriſt ſhould ſuffer, Act.</hi> 26.22, 23. yea, if we compare the Prophe<g ref="char:EOLhyphen"/>cies of the Old Teſtament with the Hiſtory of the New, we ſhall find that exact correſpondence of the event with the predictions, and the punctual accompliſhment of every circum<g ref="char:EOLhyphen"/>ſtance, even in that way and manner as it was fore-told, will make it clearly to appear, that all this was done by the determi<g ref="char:EOLhyphen"/>nate Counſel and fore-knowledge of God; which will be yet more plain, if we conſider,</p>
+            <p>Thirdly, that theſe things were not only punctually fore-told by the Prophets, but likewiſe prefigur'd in Types, and in a previous manner acted over in the ſacrifices; long before our Saviours coming in the fleſh, the ſlaying of the Paſchal Lamb in the Paſſeover, clearly repreſents the ſlaughter of this Lamb of God; who was to take away the ſins of the world: the lifting up of the brazen Serpent in the wilderneſs betoken'd, and is ac<g ref="char:EOLhyphen"/>cordingly by the Apoſtle apply'd to the lifting up of the Meſſias upon the Croſs: yea all the Sacrifices under the Law, which were offer'd and purg'd with blood, are but ſo many Types and Repreſentations of the death of the Meſſias; ſignifying to us, that only through his blood we muſt look for the remiſſion of ſins, and through the vail of his fleſh alone hope for the ad<g ref="char:EOLhyphen"/>miſſion into the Holy of Holies; all which (without having re<g ref="char:EOLhyphen"/>courſe to the infinity of his wiſdom &amp; knownledge) make it more
+<pb n="17" facs="tcp:31962:8"/>particularly and unqueſtionably certain, that our Saviours Paſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, as to all the Modes and Circumſtances of it, was done by the determinate counſel and fore-knowledge of God.</p>
+            <p>The practical inferences, by way of Application, (our laſt particular) now follow; and</p>
+            <p>Firſt of all, from the ſeveral ſteps of our Saviours Paſſion, together with the infamy and ſeverity of them all, we may learn the hainous and pernicious nature of ſin, which could be no otherwiſe expiated, then by the blood of the Son of God; the ſins of loſt man cry'd ſo loud in the ears' of Heaven, that Jeſus Chriſt muſt deſcend thence, er'e he could ſtop the clamour; and when he came down, nothing could ſilence it, but the ſweeter voice of that blood that ſpeaketh better things than that of <hi>Abel:</hi> If any can be ſo dangerouſly miſtaken, as to think ſin but a ſlight matter, let him enter into the High Prieſts Palace, the Judg<g ref="char:EOLhyphen"/>ment Hall, and Mount <hi>Calvary,</hi> and there ſee what it coſt our Saviour to do it away; let him take a walk in the Garden of <hi>Gethſemane,</hi> and then give his ſins a proſpect, of what they drew upon a bleeding and Crucified Chriſt; there maiſt thou ſee what a diſmall night of affliction thou haſt made him to ſuffer by thy luxury and night-revellings; there maiſt thou behold thoſe ſad wounds and bruiſes which thy ſins have made upon his bo<g ref="char:EOLhyphen"/>dy; and how he groans under that, at which thou doſt but ſport thy ſelf; call upon thy deep draughts and riotous exceſs, to ſee what a cup of wrath and trembling they have made him to drink off for their ſake; ſhew thy drunkenneſs the Gall and Worm-wood which he was forc't to ſwallow for its atonement; call hither thy lewd embraces, and ſinfull dalliances, ſhew them a naked Chriſt, all over bath'd in tears and blood, to waſh off their impurities; bid thy oaths and curſing look yonder, and ſee the blood and wounds which they have ſo often plaid withal; view thoſe bitter pangs, throws, and Agonies, which ſin hath made him to labour under, and then ſee whether it be ſo light and inconſiderable a matter, as thou wouldſt fain perſwade thy ſelf it is: certainly, if there be any preſſure in that which crackt
+<pb n="18" facs="tcp:31962:9"/>the very heart-ſtrings of Nature, and made the whole Creati<g ref="char:EOLhyphen"/>on groan; if there be any weight in that which ſank the Lord of Heaven and Earth into the Grave, then is ſin one of the hea<g ref="char:EOLhyphen"/>vieſt and moſt intolerable burdens in the World.</p>
+            <p>Secondly, this diſcourſe of our Saviours Paſſion bids us to conform unto his death, by dying unto ſin, and crucifying the the fleſh with the affections and luſts; this is the uſe which the Apoſtle makes of it, <hi>Rom.</hi> 6.4. that as Chriſt dyed and roſe again, ſo ſhould we dye unto ſin and live unto God; and verſe ſecond, <hi>how ſhall we that are dead in ſin live any longer therein?</hi> was Chriſt bruiſed and wounded for our iniquities, and ſhall we act over the ſame Tragedy upon him again by our repeated tranſ<g ref="char:EOLhyphen"/>greſſions? had he not ſorrow and ſufferings enough of old, but by renewed offences will we tear open his wounds afreſh, and Crucifie him again? ſhall we think it much to ſhed a few peni<g ref="char:EOLhyphen"/>tential tears for that which made him ſweat great drops of blood? when Satan, or thy own corrupt heart tempt thee to the com<g ref="char:EOLhyphen"/>miſſion of any ſin; imagine thou ſaweſt thy Crucified Saviour coming towards thee, ſhewing thee his Croſs, and beſeeching thee by all his wounds, that thou wouldeſt not pierce his ſide again, or drive any more nails into him; yea, fancy all his wounds to be ſo many mouths, gaping for pity, and begging thee not to renew their ſmart by any freſh acts of cruelty; would not this diſſwade any that had but the bowels of a man from ſuch unreaſonable attempts? imagine that he ſhewed thee his cheeks ſwoln with buffetings, his face defil'd with ſpitting on, his head gor'd with Thorns, and his back torn with ſcour<g ref="char:EOLhyphen"/>ges; and would not this be a ſpectacle ſad enough to move compaſſion? Sure, unleſs we are become transform'd into wild Beaſts, we can never delight in the blood of our deareſt friend; yea, we muſt be more ſavage than they, if we prey upon our Keeper, and wound that hand that doth but reach us our it<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſſiſtance; let us not then any longer hug that Viper in our bo<g ref="char:EOLhyphen"/>ſom, which not only ſtung our Saviour to death, but likewiſe gnaws upon our own Conſcience, and leaves the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Worm to
+<pb n="19" facs="tcp:31962:9"/>torture us, that never dies; let us bury our ſins in our Saviouts grave; or, like the <hi>Egyptians</hi> of old, let them be all drowned in the Red Sea of his blood.</p>
+            <p>Thirdly, in this ſtory of our Saviours Paſſion, we may read the tranſcendent and unexpreſſible love of Chriſt unto mankind, in undergoing all this miſery and torment for their ſakes; the greateſt expreſſion of love that ever was, or could be mani<g ref="char:EOLhyphen"/>feſted towards the Sons of men, was the ſending of a Saviour into the World; for when all mankind lay in a forlorn, undone condition, unable either to bear or remove the great burden of thoſe miſeries which ſin had brought upon them; then to feel the gentle hand of a Redeemer taking off the weight, and ad<g ref="char:EOLhyphen"/>miniſtring to them eaſe and deliverance, to find their chains ex<g ref="char:EOLhyphen"/>chang'd for a Crown, and their mourning turn'd into Jubilees, and ſongs of Triumph; this is a mercy to be expreſt only with wonder, and eternity it ſelf is too little ſufficiently to celebrate and admire it: eſpecially, conſidering that the lapſed Angels, thoſe nobler and far more glorious Creatures, were totally paſt by and neglected, whilſt the worthleſs ſons of <hi>Adam</hi> became the ſelect objects of divine love and compaſſion; this is ſo high and eminent a teſtimony of Gods love, that Saint <hi>John</hi> is at a loſs, how to deſcribe it, Chap. 3. verſe 16. <hi>God ſo loved the world, that he gave his only begotten Son,</hi> &amp;c. and St. <hi>Paul,</hi> like one a<g ref="char:EOLhyphen"/>ſtoniſht at the conſideration of it, cryes out, <hi>O the depth and height, the length and breadth of this love of God, that paſſeth know<g ref="char:EOLhyphen"/>ledge! Eph.</hi> 3.18. Should any generous Monarch take ſome forlorn wretch from the dunghill, in all his running ſores and Ulcers, and not only receive him into his Palace, but adopt him for his ſon, and pronounce him his heir; this, though it were a kindneſs truly great and noble, is yet but a faint reſem<g ref="char:EOLhyphen"/>blance of the great love of God towards us. Yea, farther, ſhould any compaſſionate Prince expoſe his own Darling Child to the moſt barbarous and bloody death, only to ſave the life of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Traytor, who had oftentimes forfeited it by many acts of Trea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on and Rebellion; this, though it come ſomewhat nearer, doth
+<pb n="20" facs="tcp:31962:10"/>yet come infinitely ſhort of this unimitable inſtance of Gods love and goodneſs; if we would work our hearts to ſome ſence of it, let us</p>
+            <p>Firſt, meditate a while on the ſurpaſſing greatneſs and emi<g ref="char:EOLhyphen"/>nence of the perſon who ſuffer'd all this for us; it being no o<g ref="char:EOLhyphen"/>ther than the eternal and only begotten Son of God; yea, on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that was God bleſſed for evermore, and might have been for o<g ref="char:EOLhyphen"/>ver glorious, though the whole World ſtill continued miſera<g ref="char:EOLhyphen"/>ble.</p>
+            <p>Secondly, let us conſider a little, what kind of death it wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he underwent, a death heighten'd with all the ingredien<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of pain and anguiſh, that the moſt ingenious and intaged malic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could invent or execute; a death, wherein the wrath of God and the ſpite of men, and the rage of all the power of dark<g ref="char:EOLhyphen"/>neſs moſt fatally conſpir'd.</p>
+            <p>Thirdly, let us conſider likewiſe the great worthleſneſs o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the perſons for whom all this was done; perſons that were n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> only ſtrangers, but the greateſt Enemies and Rebels to hi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> perſons, that never did any thing, but what did <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> highly diſoblige and provoke him. The ſerious conſideratio<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> theſe things may help us to ſome ſmall glimpſes of this unp<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> lel'd mercy, though the juſt dimenſions of it can by no m<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> be comprehended, and is therefore left to be the Object of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eternal praiſes and admiration.</p>
+            <p>Fourthly, from our Saviours Paſſion, we may learn patien<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bear all the afflictions and croſſes that may befall us in this <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we may not expect better uſage in the World than our <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> met with, the Diſciple is not above his Lord; as he hath <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> before us in this hard and rugged way, ſo hath he left <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> him a fair copy of humility and patience for us to write <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that can happen to us of theſe calamities, are nothing <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with his Agonies, and bitter p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion; and ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> actions, that bear no proportion at all <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the heavy burden of his ſufferings at that <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ing exceſſive weight of glory, which he <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
